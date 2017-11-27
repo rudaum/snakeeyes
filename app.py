@@ -20,7 +20,6 @@ def create_app():
         :return: Flask response
         """
         return app.config['HELO']
-        print app
     return app.run()
 
 create_app()
