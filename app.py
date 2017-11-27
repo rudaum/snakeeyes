@@ -19,7 +19,7 @@ def create_app():
 
         :return: Flask response
         """
-        return app.config['HELO']
+        return app.config['HELLO']
     return app.run()
 
 create_app()
