@@ -1,0 +1,3 @@
+DEBUG = True
+
+HELLO = 'BUNDA SUJA'
