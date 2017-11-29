@@ -1,3 +1,0 @@
-DEBUG = False
-
-HELLO = "XUUUUUUUUUUUUPA"
